@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./florietpatercul00florgoog_0006.png"; bbox 0 0 1838 2922; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 99 0 1311 113">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 99 0 1311 113">
+     <span class='ocr_line' id='line_1_1' title="bbox 99 0 1311 113; baseline -0.011 -22"><span class='ocrx_word' id='word_1_1' title='bbox 99 19 404 103; x_wconf 51' lang='lat' dir='ltr'><strong>F‘spr&#39;m</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 438 0 829 113; x_wconf 49' lang='grc' dir='ltr'><strong>ΕΙᾸὲο-ἒίὲέκῖ,</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 888 0 1055 81; x_wconf 49' lang='grc' dir='ltr'><strong>Α’Ῥνῑ·</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1079 48 1239 92; x_wconf 47' lang='lat'><strong>41:34</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1277 42 1311 92; x_wconf 69' lang='lat'><strong>,2⁸-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 682 1368 1182 1467">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 682 1368 1182 1467">
+     <span class='ocr_line' id='line_1_2' title="bbox 682 1368 1182 1467; baseline 0.008 -6"><span class='ocrx_word' id='word_1_6' title='bbox 682 1368 1057 1461; x_wconf 77' lang='lat' dir='ltr'>FLORI</span> <span class='ocrx_word' id='word_1_7' title='bbox 1175 1460 1182 1467; x_wconf 12' lang='grc' dir='ltr'><em>Α</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 531 1756 1232 2022">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 531 1756 1232 2022">
+     <span class='ocr_line' id='line_1_3' title="bbox 531 1756 1232 1836; baseline -0.007 0"><span class='ocrx_word' id='word_1_8' title='bbox 531 1756 1232 1836; x_wconf 88' lang='lat' dir='ltr'><strong>PATERCULI</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 706 1954 1045 2022; baseline -0.018 0"><span class='ocrx_word' id='word_1_9' title='bbox 706 1954 1045 2022; x_wconf 87' lang='lat' dir='ltr'><strong>OPERA.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
